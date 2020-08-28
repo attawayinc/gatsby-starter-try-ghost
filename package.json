@@ -31,7 +31,7 @@
     "gatsby": "^2.24.47",
     "gatsby-plugin-ackee-tracker": "^1.4.0",
     "gatsby-plugin-netlify": "^2.3.13",
-    "gatsby-plugin-preact": "^4.0.9",
+    "gatsby-plugin-preact": "^4.0.10",
     "gatsby-rehype-ghost-links": "^1.5.2",
     "gatsby-rehype-prismjs": "^1.1.4",
     "gatsby-theme-ghost-dark-mode": "^1.5.3",
